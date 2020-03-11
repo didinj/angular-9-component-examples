@@ -1,4 +1,6 @@
-# AngularComponent
+# Angular 9 Tutorial: Angular Component Example
+
+This source code is part of [Angular 9 Tutorial: Angular Component Example]().
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
 
